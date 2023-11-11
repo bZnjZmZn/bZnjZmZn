@@ -1,5 +1,5 @@
 # 💫 About Me:
-idk
+I am a distinguished astronaut who has been serving at the National Aeronautics and Space Administration (NASA) for over a decade. With an unwavering passion for space exploration, I have been instrumental in several groundbreaking missions that have expanded our understanding of the universe. My expertise in astrophysics and engineering has been invaluable in designing and executing complex experiments that have yielded remarkable results. In addition to being a highly accomplished astronaut, I am also an avid philanthropist who has been actively involved in several initiatives aimed at promoting scientific education and research.
 
 
 ## 🌐 Socials:
