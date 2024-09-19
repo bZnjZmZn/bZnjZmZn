@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div align="center">
     <h1>Bznjzmzn</h1>
     <div style="margin: 10px;">
         <img src="https://skillicons.dev/icons?i=python,nodejs,java,cpp"/>
